@@ -17,7 +17,7 @@ For app-level coding constraints, read:
 
 - Next.js 16 (App Router)
 - React 19
-- Tailwind CSS 4
+- Tailwind CSS 4 
 - Supabase
 
 ## Setup
@@ -54,6 +54,7 @@ Only Community MVP is in active implementation:
 - auth (magic link)
 - nickname
 - posts
+- anonymous posting
 - comments
 
 Do not start formal Practice / Journal / Check-in implementation in this phase.
